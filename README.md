@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://www.youtube.com/playlist?list=PLUaeHJWMqbW9aP77ec4DgZovAyg9bV5lJ" target="blank">
     <h2>
-      Playlist for this repository
+      [Playlist for this repository](https://www.youtube.com/playlist?list=PLUaeHJWMqbW9aP77ec4DgZovAyg9bV5lJ)
     </h2>
   </a>
 </p>
